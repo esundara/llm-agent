@@ -39,9 +39,9 @@ USER_NAME = "Elango. "  # name to use while calling the agent.
 
 LLM = ChatOpenAI(max_tokens=100)  # using open ai LLM.
 
-"""## Implementing Your First Generative Agent
+"""
 
-
+## Implementing Generative Agent
 
 """
 
