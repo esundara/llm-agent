@@ -33,7 +33,7 @@ from langchain_experimental.generative_agents import (
     GenerativeAgentMemory,
 )
 
-
+os.environ["OPENAI_API"] = 'OPEN_API'
 
 USER_NAME = "Elango. "  # name to use while calling the agent.
 
